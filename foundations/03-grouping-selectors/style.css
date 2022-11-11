@@ -1,0 +1,13 @@
+.b_one, .b_two {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.b_one {
+    background-color: black;
+    color: white;
+}
+
+.b_two {
+    background-color: yellow;
+}
